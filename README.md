@@ -82,9 +82,8 @@ Results-oriented **Software Development Consultant** at **Lumen Technologies** w
 
 ### Data Engineering & Streaming
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 
-**Specialized Skills:** ETL Pipelines, Real-time Data Processing, Data Reconciliation
+**Specialized Skills:** ETL Pipelines, Real-time Data Processing, Data Reconciliation, Apache Kafka
 
 ### Cloud & DevOps
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
