@@ -2,15 +2,13 @@
   
 # 👋 Hi, I'm Shivam Tiwari
 
-### Software Development Consultant @ Lumen Technologies | Backend & AI Engineer | Cloud Architect
+### Software Development Consultant | Backend & AI Engineer | Cloud 
 
-[![Website](https://img.shields.io/badge/Website-shivamtiwari.me-blue?style=for-the-badge&logo=google-chrome)](https://shivamtiwari.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-shivampundit-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/shivampundit)
 [![Twitter](https://img.shields.io/badge/Twitter-@shivam__pundit-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/shivam_pundit)
-[![Instagram](https://img.shields.io/badge/Instagram-intactcoder-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/intactcoder)
+[![Instagram](https://img.shields.io/badge/Instagram-intactcoder-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/shivam_pundit)
 [![Email](https://img.shields.io/badge/Email-shivatiwari1648@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivatiwari1648@gmail.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=shivampundit&color=blueviolet&style=flat-square)
 
 </div>
 
