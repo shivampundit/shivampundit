@@ -18,44 +18,7 @@
 
 ## 🚀 About Me
 
-Results-oriented **Software Development Consultant** at **Lumen Technologies** with **2.5+ years** of proven expertise in designing, developing, and deploying scalable microservices and production-grade **Agentic AI systems**. Specialized in building fault-tolerant, distributed solutions leveraging cloud infrastructure, real-time data streaming, and advanced AI/ML frameworks.
-
-- 🔭 Currently leading development of AI-powered Field Operations Services and optimization tools
-- 🤖 Building production-grade Agentic AI systems using **LLMs, RAG, and Model Context Protocol (MCP)**
-- 🏗️ Architecting scalable microservices with **Spring Boot, FastAPI, Apache Kafka, and Kubernetes**
-- ☁️ Deploying cloud-native solutions on **Azure (AKS)** and **GCP**
-- 🎯 Passionate about optimizing system performance and delivering enterprise-grade AI solutions
-- 🏆 **Avinya Hackathon - Top 10 Finalist** | Presented AI-powered AHT reduction solution to senior executives
-- 🎓 B.Tech in Computer Science & Engineering (GPA: 8.95) | Consistently ranked 1st in academics
-
----
-
-## 💼 Professional Experience
-
-### 🔹 Lumen Technologies - Software Development Consultant
-**Oct 2025 - Present | Hybrid**
-
-- Leading development of **FieldOps systems** including appointment scheduling and dispatch management
-- Building **AI-driven optimization tools** using Agentic AI and Model Context Protocol (MCP)
-- Implementing **MuleSoft integrations** to streamline business processes
-- Ensuring continuous delivery with AI-enhanced capabilities for improved scalability
-
-### 🔹 Lumen Technologies - Software Developer Engineer
-**July 2023 - Sept 2025 | Hybrid**
-
-- Designed **DataHub AI Agent**: Production-grade Agentic AI platform enabling semantic data queries through natural language
-- Engineered distributed **microservices-based data pipelines** with Spring Boot and Apache Kafka
-- Migrated legacy Python scripts to **high-performance PySpark** applications for scalable data reconciliation
-- Enhanced **Cassandra DB performance**, achieving **99.9% reduction in timeouts** through advanced optimization
-- Orchestrated containerized deployments with **Kubernetes** and automated CI/CD with **Jenkins**
-
-### 🔹 Nagarro - Software Development Intern
-**July 2022 - Sept 2022 | Remote**
-
-- Contributed to full-stack web application development
-- Enhanced UI elements and optimized code quality for responsive design
-
----
+Results-oriented **Software Development Consultant** with **2.5+ years** of proven expertise in designing, developing, and deploying scalable microservices and production-grade **Agentic AI systems**. Specialized in building fault-tolerant, distributed solutions leveraging cloud infrastructure, real-time data streaming, and advanced AI/ML frameworks.
 
 ## 🛠️ Technical Skills
 
@@ -131,7 +94,7 @@ Results-oriented **Software Development Consultant** at **Lumen Technologies** w
 - Presented architectural design and business impact to senior executives
 
 ### 🔍 DataHub Agent - Production Agentic AI System
-**Tech Stack:** Agentic AI, MCP, FastAPI, Apache Kafka, PostgreSQL, Kubernetes, Python
+**Tech Stack:** Agentic AI, Langchain, MCP, FastAPI, Apache Kafka, PostgreSQL, Kubernetes, Python
 
 - Production-grade Agentic AI platform enabling semantic data queries through natural language
 - Connected agents with Apache Kafka, REST APIs, and multiple database systems
@@ -148,19 +111,6 @@ Results-oriented **Software Development Consultant** at **Lumen Technologies** w
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivampundit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shivampundit&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shivampundit&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shivampundit&theme=tokyo-night&hide_border=true)
-
-</div>
 
 ---
 
@@ -170,7 +120,6 @@ I'm always interested in connecting with fellow developers, discussing AI/ML inn
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/🌐_Visit_My_Website-shivamtiwari.me-4285F4?style=for-the-badge)](https://shivamtiwari.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/shivampundit)
 [![Email](https://img.shields.io/badge/Email-shivatiwari1648@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivatiwari1648@gmail.com)
 
